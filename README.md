@@ -35,7 +35,7 @@
 我喜欢挑战并不断提升自己的技术水平，期待能够在开发社区与各位同仁共同学习，共同进步！
 
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xiaobazeo&show_icons=true&theme=radical&count_private=true" /> </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xiaobazeo&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> </div>
 
 <!--
 **xiaobaZeo/xiaobaZeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
