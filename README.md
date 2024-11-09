@@ -1,21 +1,20 @@
-# 你好，我是小八 👋
+# Hello，I'm Zeo. 👋
 
-## 关于我
-我是一名在校大学生，专注于全栈开发，热衷于将想法变成可行的技术解决方案。曾参与过一个日活2w+的小程序项目，从0到1搭建并负责了多个关键模块的开发。
+## About me
+I focus on full-stack development and am passionate about turning ideas into feasible technical solutions. I have previously participated in a mini-program project with over 20,000 daily active users, where I built the project from scratch and was responsible for the development of several key modules.
 
-## 项目经验
+## Project Experience
 
-### 微布校园
-我全程参与并负责了微信小程序的前后端开发。项目包括了用户校验、二手市场、论坛话题发布等多个业务模块。
+### webCampus
+I was fully involved in and responsible for both the frontend and backend development of the WeChat mini-program. The project included multiple business modules, such as user authentication, a second-hand marketplace, and forum topic publishing.
 
-## 学习经历
-专业是计算机科学与技术，并在校期间将理论知识与实际项目经验相结合。这次小程序项目让我深刻理解了系统开发的方方面面，从需求分析到线上运维都有了一定的经验。
+## Educational Experience
+My major is Computer Science and Technology, and during my time at university, I combined theoretical knowledge with practical project experience. This mini-program project has given me a deep understanding of all aspects of system development, from requirement analysis to online operation and maintenance, providing me with valuable experience.
 
-## 联系方式
-- 📧 邮箱：xiaobazeo@gmail.com
+## Contact Information
+- 📧 Email：xiaobazeo@gmail.com
 
-我喜欢挑战并不断提升自己的技术水平，期待能够在开发社区与各位同仁共同学习，共同进步！
-
+I enjoy challenges and continuously improving my technical skills. I look forward to learning and growing together with my colleagues in the development community!
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xiaobazeo&show_icons=true&theme=radical&count_private=true" /> </div>
 
