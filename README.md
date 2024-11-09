@@ -5,7 +5,7 @@ I focus on full-stack development and am passionate about turning ideas into fea
 
 ## Project Experience
 
-### webCampus
+### WebCampus
 I was fully involved in and responsible for both the frontend and backend development of the WeChat mini-program. The project included multiple business modules, such as user authentication, a second-hand marketplace, and forum topic publishing.
 
 ## Educational Experience
