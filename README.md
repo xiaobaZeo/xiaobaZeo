@@ -18,7 +18,7 @@ I enjoy challenges and continuously improving my technical skills. I look forwar
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xiaobazeo&show_icons=true&theme=radical&count_private=true" /> </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobazeo&layout=compact) -->
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobazeo&layout=compact" /> </div>
+<!-- <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobazeo&layout=compact" /> </div> -->
 
 
 <!--
