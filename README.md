@@ -3,14 +3,6 @@
 ## About me
 I focus on full-stack development and am passionate about turning ideas into feasible technical solutions. I have previously participated in a mini-program project with over 20,000 daily active users, where I built the project from scratch and was responsible for the development of several key modules.
 
-## Project Experience
-
-### WebCampus
-I was fully involved in and responsible for both the frontend and backend development of the WeChat mini-program. The project included multiple business modules, such as user authentication, a second-hand marketplace, and forum topic publishing.
-
-## Educational Experience
-My major is Computer Science and Technology, and during my time at university, I combined theoretical knowledge with practical project experience. This mini-program project has given me a deep understanding of all aspects of system development, from requirement analysis to online operation and maintenance, providing me with valuable experience.
-
 ## Contact Information
 - 📧 Email：xiaobazeo@gmail.com
 
