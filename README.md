@@ -17,7 +17,9 @@ My major is Computer Science and Technology, and during my time at university, I
 I enjoy challenges and continuously improving my technical skills. I look forward to learning and growing together with my colleagues in the development community!
 
 <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xiaobazeo&show_icons=true&theme=radical&count_private=true" /> </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobazeo&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobazeo&layout=compact) -->
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobazeo&layout=compact" /> </div>
+
 
 <!--
 **xiaobaZeo/xiaobaZeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
