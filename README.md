@@ -8,9 +8,10 @@ I focus on full-stack development and am passionate about turning ideas into fea
 
 I enjoy challenges and continuously improving my technical skills. I look forward to learning and growing together with my colleagues in the development community!
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xiaobazeo&show_icons=true&theme=radical&count_private=true" /> </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobazeo&layout=compact) -->
-<!-- <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobazeo&layout=compact" /> </div> -->
+<div align="center"> <img height="137px" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobazeo&stats_format=bytes)" /> </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xiaobazeo&show_icons=true&theme=radical&count_private=true" /> </div>
+
 
 
 <!--
