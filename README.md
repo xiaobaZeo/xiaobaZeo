@@ -9,10 +9,10 @@ I focus on full-stack development and am passionate about turning ideas into fea
 I enjoy challenges and continuously improving my technical skills. I look forward to learning and growing together with my colleagues in the development community!
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobazeo&layout=compact) -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xiaobazeo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- <div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=xiaobazeo&show_icons=true&theme=radical&count_private=true" /> </div> -->
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaobazeo&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
